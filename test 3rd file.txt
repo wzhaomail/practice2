@@ -1,9 +1,14 @@
 this is a 3rd file added in.
 try to see how it works.
 
+<<<<<<< HEAD
 added negative one line.
+=======
+added zero line.
+>>>>>>> origin/branch2
 
 added the first line.
 Added another line.
 added sencod line.
 added third line
+added forth line.
