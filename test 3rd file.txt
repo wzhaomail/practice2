@@ -1,6 +1,7 @@
 this is a 3rd file added in.
 try to see how it works.
 
+added negative third line.
 added negative second line.
 added negative one line.
 
@@ -15,3 +16,4 @@ added third line
 added forth line.
 
 added fifth line.
+added sixth line.
